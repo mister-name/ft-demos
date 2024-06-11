@@ -41,6 +41,8 @@ $ make all
 $ ./random-dots
 ```
 
+To run the demos on boot, see the `init.d` directory.
+
 ### Demos provided
 
 Use the `-?` command-line option on any demo program to list it's options.
